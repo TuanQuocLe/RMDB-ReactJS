@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RMDB-ReactJS/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/RMDB-ReactJS/static/js/main.54c22fd2.chunk.js",
+    "main.js.map": "/RMDB-ReactJS/static/js/main.54c22fd2.chunk.js.map",
+    "runtime-main.js": "/RMDB-ReactJS/static/js/runtime-main.e6c82638.js",
+    "runtime-main.js.map": "/RMDB-ReactJS/static/js/runtime-main.e6c82638.js.map",
+    "static/js/2.353a902b.chunk.js": "/RMDB-ReactJS/static/js/2.353a902b.chunk.js",
+    "static/js/2.353a902b.chunk.js.map": "/RMDB-ReactJS/static/js/2.353a902b.chunk.js.map",
+    "static/js/3.401d759d.chunk.js": "/RMDB-ReactJS/static/js/3.401d759d.chunk.js",
+    "static/js/3.401d759d.chunk.js.map": "/RMDB-ReactJS/static/js/3.401d759d.chunk.js.map",
+    "index.html": "/RMDB-ReactJS/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/RMDB-ReactJS/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.353a902b.chunk.js.LICENSE.txt": "/RMDB-ReactJS/static/js/2.353a902b.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpeg": "/RMDB-ReactJS/static/media/no_image.22d2aa4d.jpeg",
+    "static/media/react-movie-logo.42955eb6.svg": "/RMDB-ReactJS/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/RMDB-ReactJS/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/RMDB-ReactJS/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c82638.js",
+    "static/js/2.353a902b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.54c22fd2.chunk.js"
+  ]
+}
