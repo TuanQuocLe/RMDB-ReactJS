@@ -9,17 +9,17 @@ export const Content = styled.div`
     align-items: center;
     justify-content: space-between;
     max-width: var(--maxWidth);
-    padding: 20px 0;
+    padding: 10px 0;
     margin: 0 auto;
 `
 export const LogoImg = styled.img`
-    width: 300px;
+    width: 200px;
     @media screen and (max-width: 500px) {
         width: 200px
     }
 `
 export const TMDBLogoImg = styled.img`
-    width: 180px;
+    width: 120px;
     @media screen and (max-width: 500px) {
         width: 100px;
     }
