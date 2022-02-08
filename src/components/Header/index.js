@@ -8,7 +8,7 @@ import PropTypes from  'prop-types'
 const Header = () => (
     <Wrapper>
         <Content>
-            <Link to='/'>
+            <Link to='/RMDB-ReactJS'>
                 <LogoImg src={RMDBLogo} alt='rmdb-logo'/>
             </Link>
             <TMDBLogoImg src={TMDBLogo} alt='tmdb-logo' /> 
